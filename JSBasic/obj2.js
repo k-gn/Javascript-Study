@@ -1,4 +1,4 @@
-const superman = {
+const superman = { // 객체 리터럴 방식
     name : 'clark',
     age : 30,
     // fly : function() {

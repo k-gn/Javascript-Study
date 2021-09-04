@@ -32,3 +32,15 @@ console.log(user);
 console.log(typeof 3); // typeof : 타입을 알아내기
 
 
+
+let test = 30;
+function showTest() {
+    console.log(test);
+
+    // let test = 10;
+}
+
+showTest();
+
+// var = 함수스코프
+// let, const = 블록스코프

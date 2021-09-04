@@ -1,0 +1,17 @@
+{
+	"name": "test",
+	"description": "javascript's test programming.",
+	"keywords": [
+		"util",
+		"f",
+		"server",
+		"client",
+		"browser"
+	],
+	"author": "Goorm",
+	"main": "test.js",
+	"type": "module",
+	"dependencies": {
+		"lodash": "^4.17.21"
+	}
+}
